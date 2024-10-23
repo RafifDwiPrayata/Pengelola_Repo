@@ -20,4 +20,4 @@ Pengelola Repository adalah aplikasi yang digunakan sebagai pameran dari 10 krea
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/pengelola-repository.git
+   git clone https://github.com/RafifDwiPrayata/Pengelola_Repo.git
